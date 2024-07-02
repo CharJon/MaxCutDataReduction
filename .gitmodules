@@ -1,0 +1,18 @@
+[submodule "extern/ogdf"]
+	path = extern/ogdf
+	url = https://github.com/charjon/ogdf.git
+[submodule "extern/gtest"]
+	path = extern/gtest
+	url = https://github.com/google/googletest
+[submodule "extern/json"]
+	path = extern/json
+	url = https://github.com/nlohmann/json
+[submodule "extern/cxxopts"]
+	path = extern/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "extern/MQLib"]
+	path = extern/MQLib
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "extern/networkit"]
+	path = extern/networkit
+	url = https://github.com/networkit/networkit.git
