@@ -1,5 +1,7 @@
 # Max Cut Preprocessing
 
+Code for our paper "Separator based Data Reduction for the Maximum Cut Problem", which will be presented at Symposium on Experimental Algorithms (SEA) 2024.
+
 ## External dependencies
 
 All dependencies of this project are manged by git (via submodules).
