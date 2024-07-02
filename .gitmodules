@@ -10,9 +10,9 @@
 [submodule "extern/cxxopts"]
 	path = extern/cxxopts
 	url = https://github.com/jarro2783/cxxopts.git
-[submodule "extern/MQLib"]
-	path = extern/MQLib
-	url = https://github.com/jarro2783/cxxopts.git
 [submodule "extern/networkit"]
 	path = extern/networkit
 	url = https://github.com/networkit/networkit.git
+[submodule "extern/MQLib"]
+	path = extern/MQLib
+	url = https://github.com/CharJon/MQLib.git
